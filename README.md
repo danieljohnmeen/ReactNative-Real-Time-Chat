@@ -35,7 +35,7 @@ Realtime Chat App built with React Native and Firebase as a backend in order to 
 1. Clone the repository
 
 ```sh
-git clone https://github.com/mdossantosdev/react-native-firebase-chat
+git clone https://github.com/danieljohnmeen/ReactNative-Real-Time-Chat
 ```
 
 2. Go into react-native-firebase-chat
@@ -73,6 +73,4 @@ MEASUREMENT_ID=your_measurement_id
 expo start
 ```
 
-## © License
 
-This project is licensed under the [MIT License](LICENSE).
